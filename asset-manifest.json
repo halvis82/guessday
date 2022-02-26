@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/guessday/static/css/main.80c1abe0.css",
+    "main.js": "/guessday/static/js/main.df2863a0.js",
+    "static/js/787.d37cfda9.chunk.js": "/guessday/static/js/787.d37cfda9.chunk.js",
+    "index.html": "/guessday/index.html",
+    "main.80c1abe0.css.map": "/guessday/static/css/main.80c1abe0.css.map",
+    "main.df2863a0.js.map": "/guessday/static/js/main.df2863a0.js.map",
+    "787.d37cfda9.chunk.js.map": "/guessday/static/js/787.d37cfda9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80c1abe0.css",
+    "static/js/main.df2863a0.js"
+  ]
+}
